@@ -1,0 +1,26 @@
+[{  
+    "name":"Dale",
+    "description":"An image of a baby Jaguar",
+    "imgURL":"images/babyjaguar.jpg"
+ },
+ {  
+    "name":"Fluff",
+    "description":"An image of a kitten that looks like a ball of cotton",
+    "imgURL":"images/cottonball"
+ },
+ {
+     "name":"Fenrir",
+     "description":"An image of a small wolf",
+     "imgURL":"images/husky.jpg"
+ },
+ {
+     "name":"Majestic",
+     "description":"An image of a mainecoon kitty",
+     "imgURL":"images/mainecoon.jpg"
+ },
+ {
+     "name":"Tchalla",
+     "description":"A baby panther that is about to pounce",
+     "imgURL":"images/pantherkitty.jpg"
+ }
+]

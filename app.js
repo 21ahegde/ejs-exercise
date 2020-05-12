@@ -70,6 +70,22 @@ app.get('/year/:age', function (req, res) {
     })
 })
 
+// Pets
+
+app.get('/pets', function (req, res) {
+    res.render('Pets', {
+        pageTitle: 'Various Pets'
+    })
+})
+
+// Home
+
+app.get('/home', function (req, res) {
+    res.render('Home', {
+        pageTitle: 'Home of pets'
+    })
+})
+
 
 app.listen ('3000', function() {
     console.log('I totally know what I am doing'); 

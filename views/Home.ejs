@@ -1,0 +1,7 @@
+<%- include ("partials/header.ejs") %>
+
+<% for (i=0; i< images.length; i++) { %>
+    <img src="/public/images/<%= images[i] %>" alt="images <% = i %>"> 
+    <% } %>
+
+<%- include ("partials/footer.ejs") %>
